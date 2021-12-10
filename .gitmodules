@@ -1,0 +1,9 @@
+[submodule "catkin_ws/src/--branch"]
+	path = catkin_ws/src/--branch
+	url = https://github.com/kissw/video2img_ros.git
+[submodule "catkin_ws/src/yolov4-for-darknet_ros"]
+	path = catkin_ws/src/yolov4-for-darknet_ros
+	url = https://github.com/kissw/yolov4-for-darknet_ros.git
+[submodule "catkin_ws/src/video2img_ros"]
+	path = catkin_ws/src/video2img_ros
+	url = https://github.com/kissw/video2img_ros.git
