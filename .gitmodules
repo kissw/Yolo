@@ -7,3 +7,6 @@
 [submodule "catkin_ws/src/video2img_ros"]
 	path = catkin_ws/src/video2img_ros
 	url = https://github.com/kissw/video2img_ros.git
+[submodule "Yolo_tools"]
+	path = Yolo_tools
+	url = https://github.com/kissw/Yolo_tools.git
