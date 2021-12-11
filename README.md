@@ -40,7 +40,7 @@ gedit (Yolo repo path)/catkin_ws/src/yolov4-for-darknet_ros/darknet_ros/darknet_
 </launch>
 ```
 
-## Error issue
+## How to Fix catkin_make error
 
 ```
 /usr/include/opencv4/opencv2/core/cvdef.h:690:4: error: #error "OpenCV 4.x+ requires enabled C++11 support"
